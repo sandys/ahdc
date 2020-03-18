@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: "/ahdc",
   siteMetadata: {
     title: "Gatsby Starter - Stellar by HTML5 UP",
     author: "Hunter Chang",
