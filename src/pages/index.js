@@ -3,6 +3,15 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import { Waypoint } from 'react-waypoint'
 import pic01 from '../assets/images/pic01.jpg'
+import Imran from '../assets/images/Imran.jpg'
+import Hashim from '../assets/images/Hashim.jpg'
+
+import note1 from '../assets/images/note1.jpg'
+import note2 from '../assets/images/note2.jpg'
+import note3 from '../assets/images/note3.jpg'
+
+import photo1 from '../assets/images/photo1.jpg'
+
 import Header from '../components/Header'
 import Layout from '../components/layout'
 import Nav from '../components/Nav'
@@ -78,7 +87,7 @@ class Index extends React.Component {
                 </ul> */}
               </div>
               <span className="image">
-                <img src={pic01} alt="" />
+                <img src={photo1} alt="" />
               </span>
             </div>
           </section>
@@ -87,7 +96,7 @@ class Index extends React.Component {
           <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>About Us</h2>
+                  <h2>Founders Note</h2>
                 </header>
                 <p>
                 हम जिस जगह से आते हैं वहाँ direction बहुत कमी से मिलता है AHDC शरु करने का
@@ -132,19 +141,29 @@ socio-emotional, language development यह चार तरह के developl
 लेकिन किसी ने इस इलाक़े में आने की दिलचस्पी नही दिखाई, ahdc regsitered करने एक
 वजह यह भी थी की जब कोईं नही आना चाहता तो हम ख़ुद यह organisation establish
 कर देंगे..</p>
-                {/* <ul className="actions">
+                <ul className="actions">
                   <li>
-                    <Link to="/generic" className="button">
-                      Learn More
-                    </Link>
+                  <span className="image">
+                    <img src={note1} alt="" />
+                  </span>
                   </li>
-                </ul> */}
+                  <li>
+                  <span className="image">
+                    <img src={note2} alt="" />
+                  </span>
+                  </li>
+                  <li>
+                  <span className="image">
+                    <img src={note3} alt="" />
+                  </span>
+                  </li>
+                </ul>
               </div>
-              <span className="image">
-                <img src={pic01} alt="" />
-              </span>
+              
+              
             </div>
           </section>
+
           
           <section id="mission" className="main special">
             <header className="major">
@@ -152,7 +171,7 @@ socio-emotional, language development यह चार तरह के developl
             </header>
             <ul className="features">
               <li>
-                <span className="icon major style1 fa-code"></span>
+                <span className="icon major style1 fa-bullhorn"></span>
                 <h3>Spread Awareness</h3>
                 <p>
                 <p>- Run awareness campaigns among children in various government and private schools
@@ -173,7 +192,7 @@ encourage body positivity.
                 </p>
               </li>
               <li>
-                <span className="icon major style3 fa-copy"></span>
+                <span className="icon major style3 fa-handshake-o"></span>
                 <h3>Provide guidance &amp; skill training</h3>
                 <p>
                 Provide career guidance sessions to students of class 10 &amp; 12 to help them select proper career
@@ -193,7 +212,7 @@ behind high suicide rates in children in India.
                 </p>
               </li>
               <li>
-                <span className="icon major style5 fa-diamond"></span>
+                <span className="icon major style5 fa-paste"></span>
                 <h3>Documentation</h3>
                 <p>
                 To ensure proper documentation of the families and the children like AADHAR, PAN card, ration
@@ -203,15 +222,37 @@ ensure that the individuals and the families get the sponsored care that they de
                 </p>
               </li>
             </ul>
-            {/* <footer className="major">
+            <footer className="major">
               <ul className="actions">
-                <li>
-                  <Link to="/generic" className="button">
-                    Learn More
-                  </Link>
+
+                <li> 
+                  <span className="image">
+                    <img src={pic01} alt="" />
+                  </span>
+                </li>
+
+                <li> 
+                  <span className="image">
+                    <img src={pic01} alt="" />
+                  </span>
+                </li>
+                <li> 
+                  <span className="image">
+                    <img src={pic01} alt="" />
+                  </span>
+                </li>
+                <li> 
+                  <span className="image">
+                    <img src={pic01} alt="" />
+                  </span>
+                </li>
+                <li> 
+                  <span className="image">
+                    <img src={pic01} alt="" />
+                  </span>
                 </li>
               </ul>
-            </footer> */}
+            </footer>
           </section>
 
           <section id="team" className="main special">
@@ -223,7 +264,7 @@ core team of members.
             <ul className="features">
               <li>
               <span className="image">
-                <img src={pic01} alt="" />
+                <img src={Imran} alt="" />
               </span>
                 <h3>Imran</h3>
                 <p>
@@ -240,7 +281,7 @@ Refugee law from ISIL(Indian Society of International Law)</p>
               </li>
               <li>
               <span className="image">
-                <img src={pic01} alt="" />
+                <img src={Hashim} alt="" />
               </span>
                 <h3>Hashim</h3>
                 <p>
@@ -261,7 +302,7 @@ Masters in Early Childhood Development and Research- Jamia Millia Islamia
             </footer> */}
           </section>
 
-          <section id="second" className="main special">
+          <section id="impact" className="main special">
             <header className="major">
               <h2>Impact</h2>
               <p>
