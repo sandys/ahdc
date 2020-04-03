@@ -12,6 +12,11 @@ import note3 from '../assets/images/note3.jpg'
 
 import photo1 from '../assets/images/photo1.jpg'
 
+import m1 from '../assets/images/m1.jpg'
+import m2 from '../assets/images/m2.jpg'
+import m3 from '../assets/images/m3.jpg'
+import m4 from '../assets/images/m4.jpg'
+
 import Header from '../components/Header'
 import Layout from '../components/layout'
 import Nav from '../components/Nav'
@@ -227,28 +232,23 @@ ensure that the individuals and the families get the sponsored care that they de
 
                 <li> 
                   <span className="image">
-                    <img src={pic01} alt="" />
+                    <img src={m1} alt="" />
                   </span>
                 </li>
 
                 <li> 
                   <span className="image">
-                    <img src={pic01} alt="" />
+                    <img src={m2} alt="" />
                   </span>
                 </li>
                 <li> 
                   <span className="image">
-                    <img src={pic01} alt="" />
+                    <img src={m3} alt="" />
                   </span>
                 </li>
                 <li> 
                   <span className="image">
-                    <img src={pic01} alt="" />
-                  </span>
-                </li>
-                <li> 
-                  <span className="image">
-                    <img src={pic01} alt="" />
+                    <img src={m4} alt="" />
                   </span>
                 </li>
               </ul>
