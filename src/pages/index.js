@@ -312,7 +312,7 @@ Masters in Early Childhood Development and Research- Jamia Millia Islamia
             <ul className="statistics">
               <li className="style1">
                 <span className="icon fa-code-fork"></span>
-                <strong>5,120</strong> Etiam
+                <strong>5,120</strong> Cloth Drive
               </li>
               <li className="style2">
                 <span className="icon fa-folder-open-o"></span>
@@ -332,7 +332,7 @@ Masters in Early Childhood Development and Research- Jamia Millia Islamia
               </li>
             </ul>
             <p className="content">
-              Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl
+              SSS elementum nisl et mi a commodo porttitor. Morbi sit amet nisl
               eu arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum
               ac arcu sit amet, fermentum pellentesque et purus. Integer maximus
               varius lorem, sed convallis diam accumsan sed. Etiam porttitor
@@ -346,7 +346,7 @@ Masters in Early Childhood Development and Research- Jamia Millia Islamia
             <footer className="major">
               <ul className="actions">
                 <li>
-                  <Link to="/generic" className="button">
+                  <Link to="/cloth-drive" className="button">
                     Learn More
                   </Link>
                 </li>
