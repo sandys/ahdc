@@ -7,6 +7,10 @@ import IMG_2126 from '../assets/images/clothes-drive/drive1/IMG_2126.jpg'
 import IMG_2138 from '../assets/images/clothes-drive/drive1/IMG_2138.jpg'
 import IMG_2125 from '../assets/images/clothes-drive/drive1/IMG_2125.jpg'
 
+import clothesdrive1 from '../assets/images/clothes-drive/clothesdrive1.png'
+import clothesdrive2 from '../assets/images/clothes-drive/clothesdrive2.png'
+import clothesdrive3 from '../assets/images/clothes-drive/clothesdrive3.png'
+
 import I0d1ebf26 from '../assets/images/clothes-drive/drive2/0d1ebf26-151e-4f5b-a5ae-87bae582f197.jpg'
 import I7fb8030f from '../assets/images/clothes-drive/drive2/7fb8030f-c357-40af-ad03-72636ff62fd6.jpg'
 import da44159d from '../assets/images/clothes-drive/drive2/da44159d-0c74-4e39-bebf-472dddd1e920.jpg'
@@ -18,14 +22,15 @@ class Generic extends React.Component {
       <Layout>
         <Helmet title="AHDC Clothes Distribution Drives" />
         <header id="header">
-        <h1>"AHDC Clothes Distribution Drives"</h1>
+        <h1>AHDC Clothes Distribution Drives</h1>
        
     </header>
         <div id="main">
           <section id="content" className="main">
-            <span className="image fit"><img src={IMG_2126} alt="" /></span>
+            
             <h2>AHDC has undertaken multiple clothes distribution drives for
 underprivileged people.</h2>
+<span className="image fit"><img src={clothesdrive1} alt="" /></span>
             <h2>Drive in association with Harf - ba - Harf Foundation in January
 2020</h2>
             <p>Our aim was to distribute clothes to the underprivileged people
@@ -33,12 +38,11 @@ at Dhobi Ghat as the people living there are living in extreme
 poverty. The basic aim of the drive is to provide clothes to
 those people who are in need and collect clothes from those
 people who are willing to donate.</p>
-<ul className="actions">
- <li> 
-    <span className="image left"><img src={IMG_2138} alt="" /></span>
-    <span className="image left"><img src={IMG_2125} alt="" /></span>
- </li>
-</ul>
+
+ 
+    <span className="image fit"><img src={IMG_2126} alt="" /></span>
+
+
 
             <h2>Venue /Community</h2>
             <p>The Dhobhi Ghat community is near Jamia Millia Islamia metro
@@ -65,7 +69,10 @@ segregating the clothes on the basic of genders. Then the
 people of the community were informed about the clothe
 distribution. The people gathered in front school for the clothes
 distribution within 15 minutes to collect clothes. Then the
-distribution of the clothes started, the gate keeper asked 5
+distribution of the clothes started, </p> 
+<span className="image fit"><img src={clothesdrive2} alt="" /></span>
+
+<p> the gate keeper asked 5
 people to enter and the members of both the organisation
 started giving clothes to people according to the age group and
 gender of the people. The members took section according to
@@ -105,14 +112,7 @@ distributed clothes to approximately 200 people with donated
 
 as well as new clothes. Most beneficiaries were children &amp;
 women.</p>
-<ul className="actions">
- <li> 
-    <span className="image left"><img src={I0d1ebf26} alt="" /></span>
-    <span className="image left"><img src={I7fb8030f} alt="" /></span>
-    <span className="image left"><img src={da44159d} alt="" /></span>
-    <span className="image left"><img src={f26715e7} alt="" /></span>
- </li>
-</ul>
+<span className="image fit"><img src={clothesdrive3} alt="" /></span>
           </section>
         </div>
       </Layout>
