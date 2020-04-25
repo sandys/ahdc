@@ -1,9 +1,16 @@
 import { Link } from 'gatsby'
 import React from 'react'
 
+import logo from '../assets/images/icon-85px.png';
+
 const Footer = props => (
   <footer id="footer">
     <section>
+    <span className="logo"><img src={logo} alt="" /></span>
+        <h1>Association of Holistic Development of Children</h1>
+        <p>A Non-Profit Organisation</p>
+    </section>
+    {/* <section>
       <h2>Our Vision</h2>
       <p>
       When poverty and lack of effective execution of welfare policies combine, the worst sufferers
@@ -22,17 +29,19 @@ across India.
           </Link>
         </li>
       </ul>
-    </section>
+    </section> */}
     <section>
       <h2>Registration</h2>
       <dl className="alt">
         <dt>Registration</dt>
         <dd>Registration No. S-1960/Distt. North East/ 2019</dd>
+        <dt>Address</dt>
+        <dd>House No. 2271, 3rd Floor, Street No. 23, New Mustafabad,Delhi- 110094</dd>
         <dt>Phone</dt>
-        <dd>(000) 000-0000 x 0000</dd>
+        <dd>9999060714, 9958310458, 9968990079</dd>
         <dt>Email</dt>
         <dd>
-          <a href="neha@ahdcindia.org">neha@ahdcindia.org</a>
+          <a href="mailto:contactus@ahdcindia.org">contactus@ahdcindia.org</a>
         </dd>
       </dl>
       <ul className="icons">
@@ -45,7 +54,7 @@ across India.
           </a>
         </li>
         <li>
-          <a href="https://twitter.com/AHDCindia" className="icon fa-facebook alt">
+          <a href="https://www.facebook.com/AHDCindia/" className="icon fa-facebook alt">
             <span className="label">Facebook</span>
           </a>
         </li>

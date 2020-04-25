@@ -103,49 +103,37 @@ class Index extends React.Component {
                 <header className="major">
                   <h2>Founders Note</h2>
                 </header>
-                <p>
-                हम जिस जगह से आते हैं वहाँ direction बहुत कमी से मिलता है AHDC शरु करने का
-मक़सद सिर्फ़ इतना है की हम जहाँ पैदा हुए, जहाँ रहे वहाँ का विकास होना चाहिए, हमने
-सोशल वर्क पढ़ा इसलिए हमारी ज़िम्मेदारी बढ़ जाती है की हम उस हिस्से में काम करें जहाँ
-ज़्यादा लोग नही पहुँच पाते। हमने दिल्ली के कई जगह का आँकलन किया तो पाया कि जहाँ
-हम रहते हैं वही सबसे पिछड़ा हुआ है।
-
-                </p>
-                <p>
-                बचपन से स्कूल ख़त्म होने तक कुछ भी अलग महसूस नही होता था क्योंकि इलाक़े से बाहर
-जाना नही होता था लेकिन जैसे ही कॉलेज में गए सब अजीब लगने लगा, सब बदला बदला
-सा लगने लगा, फिर पत्रकारिता में अपने अधिकारों के बारे में पढ़ा तो जाना की हम कैसे जी
-रहे हैं और वास्तव me कैसे जीना चाहिए। मैंने पत्रकारिता पढ़ते पढ़ते कई जगह इवेंट किये,
-परतकारित पूरी की तो कई जगह जॉब का देखा लेकिन कहीं भी satisfaction नही मिला,
-उसके बाद ख़ुद का न्यूज़ पोर्टेल hindigazette.com शुरू किया।
-
-
-                </p>
-                <p>
-                जामिया में ECD पढ़ते हुए जाना की बच्चों के विकास के लिए जो सारी चीज़ें ज़रूरी हैं हमारे
-इलाक़े में शायद एक भी follow नही होती। इसके बाद हमने इस काम को organise way में
-करने की सोची और ahdc वजूद में आयी, ahdc रेजिस्टर्ड से पहले भी हम एक साल ऐसे ही
-ज़मीन पर काम करते रहे... लोगों को समझने की कोशिश करते रहे की किस तरह से
-मुस्तफ़ाबाद में काम होना चाहिए और क्या क्या किया जा सकता है। कई बुज़ुर्गों से भी मिले,
-कई निजवानों, कई औरतों और लड़कियों से मिले और सबके विचार मिलकर नतीजा आया
-की यहाँ हर तरह के विकास की ज़रूरत है, इसलिए हमने अपने काम में holistic approach
-रखी ताकि हम सबको दिल्ली के बाक़ी हिस्सों की उस सतह पर ला सकें जहाँ बाक़ी लोग है।
-
-
-                </p>
-                <p>
-                हम चाहते हैं आने वाली नस्ल भीड़ ना बने, productive बने। हम यह भी चाहते हैं की जो
-विकास का अंतर्रष्ट्रिय मापदण्ड है वह हमारे यह पूरा होता हो। Physical, cognative,
-socio-emotional, language development यह चार तरह के developlment हर बच्चे में
-पूरी तरह से हों, अगर यह हो गये तो यह अपने बुढ़ापे तक सही काम करेंगे…
-
-
-                </p>
-                <p>हमारा मक़सद सिर्फ़ काम करना है, और ज़मीनी काम करना है जब तक हम ज़मीन नही
-तैय्यार करेंगे तब तक हम काम नही कर सकते, हमने पहले कई NGO वाले लोगों से बात की
-लेकिन किसी ने इस इलाक़े में आने की दिलचस्पी नही दिखाई, ahdc regsitered करने एक
-वजह यह भी थी की जब कोईं नही आना चाहता तो हम ख़ुद यह organisation establish
-कर देंगे..</p>
+                <p>Where we come from- Mustafabad in North East Delhi, it becomes difficult to get a sense of
+direction or clarity of way ahead.</p>
+<p>Our single minded aim behind starting AHDC was to help alleviate the conditions of the area we
+were born and brought up in. To help with its development and progress. We have studied social
+work and so it is an added responsibility on us to work in areas which are largely inaccessible to
+people from outside due to various constraints. We have assessed various areas of Delhi and
+came to realise that our own region is one of the most backward and underdeveloped.</p>
+<p>When we finished our schooling and stepped out of our neighbourhoods into the world, we realised
+how things were so different outside. We studied journalism in college and that’s when we
+understood our rights and responsibilities. We could see how we had been living up until that
+moment and how we should be living. After college we worked in journalism and events but always
+felt something was missing. We then started our own digital news portal hindigazette.com with a
+mission to carry news in Hindi &amp; Urdu to underdeveloped areas. The portal continues to be
+operative with a dedicated team of contributors and journalists.</p>
+<p>It was when we were pursuing our Masters in Early Child Development From Jamia Milia Islamia
+University that we realised that our own area in Delhi was lacking in every single facility needed for
+child development. That’s when we decided to take this up in an organised way and founded
+AHDC. Even before the organisation got registered in 2019, we worked on the ground for more
+than year, organising camps, talking to people about the benefits of facilities of child development
+and so on. We collected feedback and data from various elders and stakeholders of the area,
+women and young girls as well. We kept ‘holistic development’ as the centre of our mission with
+the aim of getting Mustafabad at par with other more developed areas of Delhi.</p>
+<p>Our mission is to build a better tomorrow, a more equipped next generation. A generation that can
+claim every opportunity to build a better more productive lives for themselves. There is no dearth of
+potential in this area- the children are bright but need facilities for growth, equal opportunity and a
+bit of guidance. We want to implement international standards of development in our area. Every
+single child should get physical, cognitive, social, emotional and language development.</p>
+<p>We understand that for this to happen we have to work closely at the grass roots level because
+unless the ground is ready, the mission will not take off. A lot of NGOs avoid working closely on the
+ground in areas like Mustafabad. Hence we started our own organisation- an endeavour by some
+of us who are from this area and want to see development in this area.</p>
                 <ul className="actions">
                   <li>
                   <span className="image">
@@ -273,11 +261,13 @@ Masters in Early Childhood Development and Research- Jamia Millia Islamia
                 </p>
                 <p>Pursuing diploma in International Human Rights, Humanitarian and
 Refugee law from ISIL(Indian Society of International Law)</p>
-                <p>&quot;Development पर किसी का copyright
-नही होता ना ही होना चाहिए, यही सोचकर Ahdc
-को ऐसे इलाक़े में शुरू किया हैं जहाँ से हम
-&#39;आते भी हैं और ज़रूरत भी है। इसका मक़सद सिर्फ़ यहाँ के
-लोगों का हर तरह से विकास करना है।”</p>
+                <p><i>“No one should have the copyright on
+development. That was the idea behind founding
+AHDC in Mustafabad- the place where I come
+from and the place which needs it a lot. Our
+single minded mission is to facilitate the
+evolution of a more equal and developed society
+in this area.”</i></p>
               </li>
               <li>
               <span className="image">
@@ -288,6 +278,12 @@ Refugee law from ISIL(Indian Society of International Law)</p>
                 Journalism Graduate- Bhimrao Ambedkar College, Delhi University
 Masters in Early Childhood Development and Research- Jamia Millia Islamia
                 </p>
+                <p><i>“It is my dream that every child in the area
+where I come from gets a fair chance of growth
+and development. I was inspired by my people
+to strive for higher education and now I want to
+create the same opportunity for the next
+generation of Mustafabad. "</i></p>
               </li>
 
             </ul>
@@ -304,34 +300,40 @@ Masters in Early Childhood Development and Research- Jamia Millia Islamia
 
           <section id="impact" className="main special">
             <header className="major">
-              <h2>Campaigns</h2>
+              <h2>Impact & Campaigns</h2>
               <p>
               AHDC India has successfully conducted these drives & projects.
               </p>
             </header>
             <ul className="statistics">
+
+            <li className="style2">
+                {/* <span className="icon fa-folder-open-o"></span> */}
+                <a href="/covid-ration"><strong>COVID Ration </strong> Drive </a>
+              </li>
+              <li className="style5">
+                {/* <span className="icon fa-diamond"></span> */}
+                <a href="/riots-rehab-drive"><strong>NE Delhi Pogrom 2020 Rehab </strong> Drive </a>
+              </li>
+              <li className="style4">
+                {/* <span className="icon fa-laptop"></span> */}
+                <a href="/food-drive"><strong>Food </strong> Drive </a>
+              </li>
+              
+              <li className="style3">
+                {/* <span className="icon fa-signal"></span> */}
+                <a href="/blanket-drive"><strong>Blanket </strong> Drive </a>
+              </li>
               
                 <li className="style1">
                 {/* <span className="icon fa-code-fork"></span> */}
                 <a href="/cloth-drive"><strong>Clothes </strong> Drive </a>
                 </li>
               
-              <li className="style2">
-                {/* <span className="icon fa-folder-open-o"></span> */}
-                <a href="/covid-ration"><strong>COVID Ration </strong> Drive </a>
-              </li>
-              <li className="style3">
-                {/* <span className="icon fa-signal"></span> */}
-                <a href="/blanket-drive"><strong>Blanket </strong> Drive </a>
-              </li>
-              <li className="style4">
-                {/* <span className="icon fa-laptop"></span> */}
-                <a href="/food-drive"><strong>Food </strong> Drive </a>
-              </li>
-              <li className="style5">
-                {/* <span className="icon fa-diamond"></span> */}
-                <a href="/cloth-drive"><strong>Clothes </strong> Drive </a>
-              </li>
+
+
+
+
             </ul>
             {/* <p className="content">
               SSS elementum nisl et mi a commodo porttitor. Morbi sit amet nisl
