@@ -12,17 +12,18 @@ const Header = (props) => (
           <a
             href="https://twitter.com/AHDCindia"
             className="icon fa-twitter alt"
+            target="_blank"
           >
             <span className="label">Twitter</span>
           </a>
         </li>
         <li>
-          <a href="https://www.facebook.com/AHDCindia/" className="icon fa-facebook alt">
+          <a href="https://www.facebook.com/AHDCindia/" className="icon fa-facebook alt" target="_blank">
             <span className="label">Facebook</span>
           </a>
         </li>
         <li>
-          <a href="https://www.instagram.com/ahdcindia/" className="icon fa-instagram alt">
+          <a href="https://www.instagram.com/ahdcindia/" className="icon fa-instagram alt" target="_blank">
             <span className="label">Instagram</span>
           </a>
         </li>
