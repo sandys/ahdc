@@ -318,15 +318,15 @@ Masters in Early Childhood Development and Research- Jamia Millia Islamia
               
               <li className="style2">
                 {/* <span className="icon fa-folder-open-o"></span> */}
-                <a href="/cloth-drive"><strong>Clothes </strong> Drive </a>
+                <a href="/covid-ration"><strong>COVID Ration </strong> Drive </a>
               </li>
               <li className="style3">
                 {/* <span className="icon fa-signal"></span> */}
-                <a href="/cloth-drive"><strong>Clothes </strong> Drive </a>
+                <a href="/blanket-drive"><strong>Blanket </strong> Drive </a>
               </li>
               <li className="style4">
                 {/* <span className="icon fa-laptop"></span> */}
-                <a href="/cloth-drive"><strong>Clothes </strong> Drive </a>
+                <a href="/food-drive"><strong>Food </strong> Drive </a>
               </li>
               <li className="style5">
                 {/* <span className="icon fa-diamond"></span> */}
